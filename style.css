@@ -1,0 +1,42 @@
+.full-page{
+    margin-left: 50px;
+    margin-right: 30px;
+
+}
+.top-part{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.left-content{
+    float: left;
+    
+}
+
+.right-content{
+    
+    float: right;
+}
+
+.heading-color{
+    color: #58D68D ;
+}
+
+.myImage{
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-top: 30px;
+    
+}
+.underline{
+    text-decoration-line: underline;
+    color: #58D68D ;
+}
+.reference{
+    display: flex;
+    justify-content: space-between;
+}
+.space{
+    padding-left: 35px;
+}
